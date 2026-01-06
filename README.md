@@ -1,7 +1,7 @@
 # RouletteGame
 A fully-featured European Roulette game with graphical animations, betting system, and game history tracking.
 
-# 🎰 Roulette Casino Game - UTM Project
+# 🎰 Roulette Casino Game - Project
 
 A professional Java-based casino roulette game with animated wheel, multiple betting options, and detailed game history tracking.
 
